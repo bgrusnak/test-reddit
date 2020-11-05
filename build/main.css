@@ -1,0 +1,12 @@
+.counter{flex-grow:1;display:flex;align-items:center;flex-direction:column;justify-content:center;padding:20px}.counter h1{border-bottom:1px solid black;padding-bottom:16px;line-height:1em;margin:0 0 16px 0}
+
+.counters{display:flex;width:30vw;flex-direction:row;align-items:stretch}
+
+.ship{display:flex;align-items:stretch}.shipImage img{height:48px}.hits{padding-top:16px}.hits img{height:32px}
+
+.ships{display:flex;width:30vw;margin-top:16px;flex-direction:column;align-items:stretch}
+
+.board{float:left;align-items:flex-start;display:flex;flex-direction:column}.boardRow{display:flex;overflow:hidden;align-items:flex-start}.boardCell{width:64px;height:64px;display:flex;flex-grow:1}.boardCell img{width:64px;height:64px}
+
+.elements{float:left;display:flex;width:30vw;flex-direction:column;align-items:stretch}
+

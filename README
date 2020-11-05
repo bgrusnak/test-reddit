@@ -1,0 +1,8 @@
+# TEST-REDDIT
+
+Here is the test example of the battleship game
+
+To run it locally, please use
+
+```yarn
+yarn dev```
