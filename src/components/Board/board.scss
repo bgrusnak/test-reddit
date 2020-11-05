@@ -1,0 +1,23 @@
+.board  {
+    float: left;
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+}
+
+.boardRow {
+    display: flex;
+    overflow: hidden;
+    align-items: flex-start;
+}
+
+.boardCell {
+    width:64px;
+    height: 64px;
+    display: flex;
+    flex-grow: 1;
+    img {
+        width:64px;
+        height:64px;
+    }
+}
